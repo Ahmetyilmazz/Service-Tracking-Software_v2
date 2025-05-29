@@ -48,7 +48,7 @@ Uygulamaya ait ekran görüntüleri:
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/10.jpeg" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/11.jpeg" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/12.jpeg" width="300"/>
- <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/12_barcode.jpeg" width="300"/>
+ <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/12_barcode.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/13.jpeg" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/14.jpeg" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software_v2/blob/eb3d7081a97140e6c3d1901ea17194081f71342b/photos/15.jpeg" width="300"/>
